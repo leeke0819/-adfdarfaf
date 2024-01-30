@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JoinOut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JoinOut_jar</output-path>
+    <root id="archive" name="JoinOut.jar">
+      <element id="module-output" name="JoinOut.main" />
+    </root>
+  </artifact>
+</component>

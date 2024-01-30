@@ -1,0 +1,4 @@
+name: JoinOut
+version: 1.0
+main: org.example.code.and.JoinOut
+api-version: "1.20"
